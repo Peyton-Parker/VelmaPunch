@@ -1,0 +1,15 @@
+﻿Structure website
+Hook up to git
+Create basic pages in angular
+Design DB structure
+Create DB
+Fill DB with data
+Hook up DB and website using LINQ
+
+
+
+Create automated tests
+Create logins and look into authentication methods
+Add Docker support
+
+

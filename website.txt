@@ -1,0 +1,23 @@
+VelmaPunch.com
+
+/about
+	about the band
+	pics of each member with names and info
+/songs
+	songs
+	play songs in browser
+	spotify and apple music links
+/follow
+	social media
+	instagram, facebook, 
+/pics
+	pics of the band
+	photo album
+/manage
+	info on booking and contact
+/live
+	info on live performances
+	when and where
+	subscribe to updates
+/merch
+	store for buying merchandise
