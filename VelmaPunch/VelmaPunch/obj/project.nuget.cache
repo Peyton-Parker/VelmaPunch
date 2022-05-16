@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "wqYoZ5qmi8jaOmw+WNGmQrEzDkOxXJRq9IXf8jYZamJ1Wp01bcQ6QXzU9f3EbrBvpQPlmuzmnv1PUqh9CWB5zQ==",
+  "dgSpecHash": "iPDtnkvVW5gcie9WT3mismm4YOtAkoGpwnYtVw0Mkin6G3vi8TcZXpFqA/C2KzYgc513sPGBromw25skd3bPMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\i821789\\Desktop\\Side Quests\\VelmaPunch\\VelmaPunch\\VelmaPunch\\VelmaPunch.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.24\\microsoft.aspnetcore.nodeservices.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.24\\microsoft.aspnetcore.spaservices.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.24\\microsoft.aspnetcore.spaservices.extensions.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.24\\microsoft.extensions.configuration.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.24\\microsoft.extensions.configuration.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.24\\microsoft.extensions.configuration.binder.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.24\\microsoft.extensions.dependencyinjection.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.24\\microsoft.extensions.dependencyinjection.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.24\\microsoft.extensions.fileproviders.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.24\\microsoft.extensions.fileproviders.physical.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.24\\microsoft.extensions.filesystemglobbing.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.logging\\3.1.24\\microsoft.extensions.logging.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.24\\microsoft.extensions.logging.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.24\\microsoft.extensions.logging.configuration.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.24\\microsoft.extensions.logging.console.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.options\\3.1.24\\microsoft.extensions.options.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.24\\microsoft.extensions.options.configurationextensions.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.24\\microsoft.extensions.primitives.3.1.24.nupkg.sha512",
+    "C:\\Users\\i821789\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
