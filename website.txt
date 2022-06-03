@@ -21,3 +21,10 @@ VelmaPunch.com
 	subscribe to updates
 /merch
 	store for buying merchandise
+
+
+
+npm install @angular/cli --global
+ng new {app} --directory .
+ng build --output-path=wwwroot
+ng serve -o
